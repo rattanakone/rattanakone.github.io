@@ -224,6 +224,11 @@ a:visited {
 .learn-more-button:link { 
   color: #ffffff;
 }
+.learn-more-button:hover {
+  background-color: #00e5e5;
+  border-color: #00e5e5;
+  color: black;
+}
 
 @media (min-width: 768px) {
   .my-title-heading-position {
@@ -328,6 +333,15 @@ a:visited {
 
 .contact-me-button:link { 
     color: #ffffff;
+}
+
+.contact-me-button:link { 
+  color: #ffffff;
+}
+.contact-me-button:hover {
+  background-color: #00e5e5;
+  border-color: #00e5e5;
+  color: black;
 }
 
 @media (min-width: 768px) {
@@ -857,29 +871,24 @@ hr.style-skills {
 
 
 .project-button {
-  padding:7px 14px;
+  padding:5px 20px;
   border-radius: 0;
-  border-color: transparent;
+  border-color: black;
   display: inline-block;
   font-size: 17px;
   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
-  background: white;
+  background: #76e5e3;
   color: black;
 }
 
 .project-button:hover {
   color: white;
-  background: black;
-  border-color: white;
+  background: white;
+  border-color: black;
 }
 
 .project-button:visited {
   color: black;
-}
-
-.view-button {
-  visibility: hidden;
-  opacity: 0;
 }
 
 .copyright-Viacheslav-Iakobchuk-adobe-stock {
@@ -1207,17 +1216,6 @@ img {
   color: #333333;
 }
 
-.journal-text-bg-image {
-  background-image: url('../img/black-feathers.jpg');
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
-
 .journal-box-text-padding {
   padding-top: 200px;
   padding-bottom: 200px;
@@ -1263,17 +1261,6 @@ img {
     font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
     font-size: 40px;
     color: #333333;
-  }
-
-  .journal-text-bg-image {
-    background-image: url('../img/black-feathers.jpg');
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
   }
 
   .journal-box-text-padding {
