@@ -873,18 +873,18 @@ hr.style-skills {
 .project-button {
   padding:5px 20px;
   border-radius: 0;
-  border-color: black;
+  border-color: transparent;
   display: inline-block;
-  font-size: 17px;
+  font-size: 25px;
   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
-  background: #76e5e3;
+  background: transparent;
   color: black;
 }
 
 .project-button:hover {
-  color: white;
+  color: black;
   background: white;
-  border-color: black;
+  border-color: transparent;
 }
 
 .project-button:visited {
