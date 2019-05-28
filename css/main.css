@@ -1181,6 +1181,50 @@ hr.style-skills {
   opacity: 1;
 }
 
+.dancing {
+  background-image: url('../img/soumontha-rattanakone-dancing.png');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  border-right: 15px solid #ffffff;
+}
+
+.dancing:hover {
+  opacity: 0.9;
+  filter: alpha(opacity=100);
+}
+
+.dancing:hover .view-button {
+  visibility: visible;
+  opacity: 1;
+}
+
+.dapper {
+  background-image: url('../img/soumontha-rattanakone-dapper.png');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  border-right: 15px solid #ffffff;
+}
+
+.dapper:hover {
+  opacity: 0.9;
+  filter: alpha(opacity=100);
+}
+
+.dapper:hover .view-button {
+  visibility: visible;
+  opacity: 1;
+}
+
 .waterdrop {
   background-image: url('../img/waterdrops-sketch.jpg');
   background-repeat: no-repeat;
