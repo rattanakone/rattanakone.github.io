@@ -877,17 +877,18 @@ hr.style-skills {
   display: inline-block;
   font-size: 25px;
   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
-  background: transparent;
+  background: white;
   color: black;
 }
 
 .project-button:hover {
-  color: black;
-  background: white;
+  color: white;
+  background: black;
   border-color: transparent;
 }
 
 .project-button:visited {
+  background: white;
   color: black;
 }
 
