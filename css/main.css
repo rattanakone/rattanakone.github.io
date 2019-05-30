@@ -8,13 +8,7 @@ body {
     font-family: 'Roboto', sans-serif; 
 }
 
-a:link {
-  color: #333333;
-}
 
-a:visited { 
-    color: #333333;
-}
 
 /* ---- NAVIGATION ---- */
 
@@ -877,8 +871,8 @@ hr.style-skills {
   display: inline-block;
   font-size: 25px;
   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
-  background: white;
-  color: black;
+  background: transparent;
+  color: white;
 }
 
 .project-button:hover {
@@ -888,8 +882,8 @@ hr.style-skills {
 }
 
 .project-button:visited {
-  background: white;
-  color: black;
+  background: transparent;
+  color: transparent;
 }
 
 .copyright-Viacheslav-Iakobchuk-adobe-stock {
@@ -909,7 +903,7 @@ hr.style-skills {
 }
 
 .copyright-Viacheslav-Iakobchuk-adobe-stock:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -931,7 +925,7 @@ hr.style-skills {
 }
 
 .copyright-neirfy-adobe-stock:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -953,7 +947,7 @@ hr.style-skills {
 }
 
 .monkey:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -975,7 +969,7 @@ hr.style-skills {
 }
 
 .luna:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -997,7 +991,7 @@ hr.style-skills {
 }
 
 .rainier:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1019,7 +1013,7 @@ hr.style-skills {
 }
 
 .makeup:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1041,7 +1035,7 @@ hr.style-skills {
 }
 
 .fortune:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1063,7 +1057,7 @@ hr.style-skills {
 }
 
 .bernard-ablola:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1085,7 +1079,7 @@ hr.style-skills {
 }
 
 .watercolor-lover:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1107,7 +1101,7 @@ hr.style-skills {
 }
 
 .fox:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1129,7 +1123,7 @@ hr.style-skills {
 }
 
 .m3:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1151,7 +1145,7 @@ hr.style-skills {
 }
 
 .dancing:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1173,7 +1167,7 @@ hr.style-skills {
 }
 
 .dapper:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1195,7 +1189,7 @@ hr.style-skills {
 }
 
 .couple:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1217,7 +1211,7 @@ hr.style-skills {
 }
 
 .heart:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1239,7 +1233,7 @@ hr.style-skills {
 }
 
 .waterdrop:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1261,7 +1255,7 @@ hr.style-skills {
 }
 
 .watercolor-woman:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1283,7 +1277,7 @@ hr.style-skills {
 }
 
 .seattle-2017:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
@@ -1305,7 +1299,7 @@ hr.style-skills {
 }
 
 .tears:hover {
-  opacity: 0.9;
+  opacity: 0.5;
   filter: alpha(opacity=100);
 }
 
